@@ -60,6 +60,7 @@ void skinny_64_128()
     cout << "p="<<log(sqrt(clprob))/log(2.0)-7*4 << endl;
 }
 
+/*
 void skinny_64_192()
 {
     long double prob=0;
@@ -98,6 +99,7 @@ void skinny_64_192()
     cout << "q="<<log(sqrt(clprob))/log(2.0)-2*4 << endl;
     
 }
+*/
 
 void skinny_128_256()
 {
