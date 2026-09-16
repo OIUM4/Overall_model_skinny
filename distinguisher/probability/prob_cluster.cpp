@@ -209,7 +209,7 @@ int main()
     DDT4();
     DDT8();
     skinny_64_128(); 
-    skinny_64_192();
+//    skinny_64_192();
     skinny_128_256();
     skinny_128_384();
     return 0;
